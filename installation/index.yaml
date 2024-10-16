@@ -17,7 +17,7 @@ entries:
       charts.openshift.io/supportURL: https://access.redhat.com/support
     apiVersion: v2
     appVersion: 1.4-54
-    created: "2024-10-16T17:26:55.356151662-03:00"
+    created: "2024-10-16T17:29:51.770823408-03:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -48,4 +48,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/rhdh-bot/openshift-helm-charts/redhat-developer-hub-1.4-54-CI/charts/redhat/redhat/redhat-developer-hub/1.4-54-CI/redhat-developer-hub-1.4-54-CI.tgz
     version: 1.4-54-CI
-generated: "2024-10-16T17:26:55.344185039-03:00"
+generated: "2024-10-16T17:29:51.755263515-03:00"
