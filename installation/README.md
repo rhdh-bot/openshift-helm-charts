@@ -15,7 +15,7 @@ cd /tmp
 # Install the chart repo
 # Install the chart, then update the clusterRouterBase
 curl -sSLO https://raw.githubusercontent.com/rhdh-bot/openshift-helm-charts/rhdh-1-rhel-9/installation/install.sh && chmod +x install.sh
-./install.sh 1.7-74-CI --namespace rhdh-1-7-74-ci
+./install.sh 1.7-75-CI --namespace rhdh-1-7-75-ci
 ```
 
 That's it! 
